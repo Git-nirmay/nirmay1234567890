@@ -1,0 +1,22 @@
+body {
+    color: hotpink;
+    background: cyan;
+
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+
+#easier {
+    border: 2px dashed orangered;
+    width: 450px;
+    height: 450px;
+}
+
+.name_of_objects,
+#result_object_name,
+#result_object_accuracy {
+    color: yellow;
+}
